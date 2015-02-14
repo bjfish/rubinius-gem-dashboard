@@ -8,5 +8,7 @@
 
 ### Sucker Punch
 
-
 [![Build Status](https://rbx-badge-dash-2.herokuapp.com/repos/brandonhilkert/sucker_punch/branches/master)](https://travis-ci.org/brandonhilkert/sucker_punch)
+
+### Rails
+[![Build Status](https://rbx-badge-dash-2.herokuapp.com/repos/rails/rails/branches/master)](https://travis-ci.org/rails/rails)
