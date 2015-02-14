@@ -15,3 +15,7 @@
 
 ### New Relic RPM
 [![Build Status](https://rbx-badge-dash-2.herokuapp.com/repos/newrelic/rpm/branches/master)](https://travis-ci.org/newrelic/rpm)
+
+### Psych
+[![Build Status](https://rbx-badge-dash-2.herokuapp.com/repos/tenderlove/psych/branches/master)](https://travis-ci.org/tenderlove/psych)
+
