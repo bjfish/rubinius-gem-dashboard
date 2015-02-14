@@ -19,3 +19,7 @@
 ### Psych
 [![Build Status](https://rbx-badge-dash-2.herokuapp.com/repos/tenderlove/psych/branches/master)](https://travis-ci.org/tenderlove/psych)
 
+### RSpec Mocks
+[![Build Status](https://rbx-badge-dash-2.herokuapp.com/repos/rspec/rspec-mocks/branches/master)](https://travis-ci.org/rspec/rspec-mocks)
+
+
